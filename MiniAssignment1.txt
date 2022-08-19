@@ -1,0 +1,8 @@
+* Goibibo Logo — //span[@class='header-sprite logo']
+* Login and Sign Up — //p[text()='LOGIN / SIGNUP'][2]
+* Hotels, Flights —//a[(@href='/hotels/') and (text()='Hotels’)],  //a[(@href='/flights/') and (text()='Flights')]
+* From — //span[text()='From']
+* Search — //div//span[text()='SEARCH FLIGHTS']
+* Student Fare —//li//span[text()='student']
+* Products — a[class='fb button orange padLR30 txtTransUpper marginB10 fltHpySrchBtn']
+* Round Trips — //span[(@class='sc-gsNilK dImRia') and (text()='Round-trip')]
